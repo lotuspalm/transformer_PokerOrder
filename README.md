@@ -12,4 +12,5 @@
     [悟透Transformer--AI是如何学习扑克牌排序的（三）](https://mp.weixin.qq.com/s?__biz=Mzg3MjkzOTc3OQ==&mid=2247483740&idx=1&sn=30d6b6a5e169018403a5669120f29cad&chksm=cee6e930f9916026a6de982a4055ce0bd9975f56d8672a1b2452316a7149c050ebd062ed6fb7#rd)
 
     关注微信公众号“寒武纪人工智能”，可获得扑克牌排序源代码，更多好文章精彩奉献。
+    ![寒武纪人工智能](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=Mzg3MjkzOTc3OQ==&mid=2247483740&idx=1&sn=30d6b6a5e169018403a5669120f29cad&send_time=)
     
